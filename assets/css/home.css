@@ -20,6 +20,8 @@ form {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 1.2rem;
+  font-weight: 500;
 }
 .completed{
     text-decoration: line-through ;
